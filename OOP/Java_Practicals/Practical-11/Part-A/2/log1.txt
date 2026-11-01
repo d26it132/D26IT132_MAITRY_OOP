@@ -1,0 +1,4 @@
+Server started
+User login successful
+Error: connection failed
+Server stopped

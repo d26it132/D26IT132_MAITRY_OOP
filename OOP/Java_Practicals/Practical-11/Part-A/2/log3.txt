@@ -1,0 +1,3 @@
+Server started
+Error: file not found
+Backup completed

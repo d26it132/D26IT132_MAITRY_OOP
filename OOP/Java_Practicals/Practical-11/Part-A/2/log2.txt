@@ -1,0 +1,5 @@
+User login successful
+Database connected
+Error: timeout occurred
+Error: file not found
+User logout
